@@ -5,7 +5,7 @@ export const PROFILE = {
   linkedin: "https://linkedin.com/in/syedaanis",
   github: "https://github.com/syedaaniswahab",
   location: "Bhopal, India",
-  siteUrl: "https://example.com", // TODO: replace with your real deployed domain
+  siteUrl: "https://syed-portfolio-delta.vercel.app/", // TODO: replace with your real deployed domain
   bio: "Works at the intersection of AI, automation, customer experience, and product development. Background spans customer support, digital marketing, automation, and business operations; recent focus is AI-powered workflows, SaaS products, and intelligent automation. Based in Bhopal, India, open to remote roles.",
   summary: "I'm passionate about building AI-powered workflows that simplify business operations and improve customer experiences. My background spans customer support, automation, SaaS, digital marketing, and product strategy. I enjoy solving operational problems, designing scalable processes, and exploring how AI can make businesses more efficient.",
 };
